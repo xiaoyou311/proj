@@ -1,0 +1,16 @@
+{
+    "name": "xiaoyou/proj",
+    "description": "测试proj项目",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoyou",
+            "email": "futuyou@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
